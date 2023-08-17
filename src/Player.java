@@ -7,6 +7,7 @@ private String name;
 private int balance;
 private List<Card> hand;
 
+
 public Player(String name, int initialBalance) {
 this.name = name;
 this.balance = initialBalance;
