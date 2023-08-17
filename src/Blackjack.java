@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Blackjack {
+public class Blackjack 
+{
 private Deck deck;
 private Player player;
 private Player dealer;
